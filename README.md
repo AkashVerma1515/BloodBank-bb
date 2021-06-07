@@ -1,15 +1,14 @@
 <div align="center">
-  <img src="https://miro.medium.com/max/1838/1*KJACFKJ0GKtnhgR7OmlPFA.gif">
   <h1>Blood Bank</h1>
 </div>
 
 Blood Bank Web Application. Uses Node JS and MongoDB primarily.
 S
-## 🧐 About
+## About
 
 Blood Bank is a very simple yet functional and secure Blood Bank Web Application.
 
-## 🏁 Getting Started
+## Getting Started
 
 You should be familiar enough with `Node JS` and `mongoose`.
 
@@ -36,7 +35,7 @@ Make changes if required.
 ```bash
 npm start
 ```
-## 🚀 Deployment
+## Deployment
 
 Make changes in `.env`
 
@@ -45,7 +44,7 @@ Make changes in `.env`
 3. Change NODE_ENV to production for `Morgan`
 4. Remove everything after `DEBUG=`
 
-## ⛏️ Built Using
+## Built Using
 
 - [MongoDB](https://www.mongodb.com/) - Database
 - [Mongoose](https://mongoosejs.com/) - MongoDB Wrapper
@@ -53,10 +52,10 @@ Make changes in `.env`
 - [NodeJs](https://nodejs.org/en/) - Server Environment
 - [VS Code](https://code.visualstudio.com/) - Awesome IDE
 
-## ✍️ Authors
+## Author
 
 [@AkashVerma1515](https://github.com/AkashVerma1515) - Initial work
 
-## 🎉 Acknowledgements
+## Acknowledgements
 
 - StackOverflow <3
