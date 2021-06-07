@@ -1,0 +1,30 @@
+{
+  "name": "bloodbank",
+  "version": "1.6.1",
+  "description": "Blood Bank Web Application. Uses Node JS and MongoDB primarily.",
+  "main": "index.js",
+  "author": "akash",
+  "scripts": {
+    "test": "echo 'Error: no test specified'",
+    "start": "node index.js",
+    "populate": "node util/populator.js"
+  },
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "cookie-parser": "^1.4.4",
+    "debug": "^4.1.1",
+    "dotenv": "^8.1.0",
+    "ejs": "^2.6.2",
+    "express": "^4.17.1",
+    "mongoose": "^5.12.2",
+    "morgan": "^1.9.1"
+  },
+  "engines": {
+    "node": "14.15.4"
+  },
+  "devDependencies": {
+    "eslint": "^6.1.0",
+    "prettier": "^2.1.2"
+  }
+}
