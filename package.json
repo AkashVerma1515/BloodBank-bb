@@ -3,7 +3,7 @@
   "version": "1.6.1",
   "description": "Blood Bank Web Application. Uses Node JS and MongoDB primarily.",
   "main": "index.js",
-  "author": "akash",
+  "author": "Akash",
   "scripts": {
     "test": "echo 'Error: no test specified'",
     "start": "node index.js",
